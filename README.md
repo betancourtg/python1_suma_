@@ -7,6 +7,9 @@
 print("El total de la suma es: ")
 
 # python2_suma_arreglo
+Teniendo un arreglo de enteros encuentra el resultado de la suma de los elementos del arreglo.
+
+
 import random
 arreglo = []
 for i in range(100):
