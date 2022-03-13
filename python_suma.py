@@ -4,7 +4,7 @@ y = int(input("Ingresa y: "))
 suma = x + y
 print("El total de la suma es: ", suma)
 
-# python1_suma_arreglo
+# python2_suma_arreglo
 import random
 arreglo = []
 for i in range(100):
